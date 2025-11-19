@@ -81,7 +81,7 @@ This project demonstrates:
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Taroon Ganesh**  
 Data Science Graduate @ USC  
