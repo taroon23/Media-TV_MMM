@@ -215,7 +215,7 @@ The notebook is organized into clear sections:
 
 ---
 
-## 🤝 Feedback Welcome!
+## Feedback Welcome!
 
 I'm always looking to improve my modeling and analysis. If you have suggestions on:
 - Better validation approaches
@@ -225,22 +225,9 @@ I'm always looking to improve my modeling and analysis. If you have suggestions 
 
 ---
 
-## 📧 Connect - Taroon Ganesh
+## Connect - Taroon Ganesh
 
 - **LinkedIn:** [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/taroon-ganesh-27b83b171/)
 - **Email:** taroon2k@gmail.com
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-## 🙏 Acknowledgments
-
-- Inspired by Google's **lightweight_mmm**
-- Used **scikit-learn** for modeling, **pandas** for data manipulation
 
 ---
