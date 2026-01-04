@@ -225,9 +225,9 @@ I'm always looking to improve my modeling and analysis. If you have suggestions 
 
 ---
 
-## Connect - Taroon Ganesh
+## Connect - Taroon Ganesh (Data Science Grad - USC)
 
-- **LinkedIn:** [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/taroon-ganesh-27b83b171/)
+- **LinkedIn:** [linkedin.com/in/taroon-ganesh-27b83b171/](https://www.linkedin.com/in/taroon-ganesh-27b83b171/)
 - **Email:** taroon2k@gmail.com
 
 ---
