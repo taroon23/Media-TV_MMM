@@ -4,7 +4,7 @@
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 **The Question:** How should a TV network allocate its $14M annual media budget across three advertising channels to maximize viewership?
 
@@ -21,7 +21,7 @@
 
 ---
 
-## 📊 The Data
+## The Data
 
 - **420 episode-weeks** across 8 TV shows (2020-2025)
 - **3 advertising channels**: Network TV, Cable TV, Digital
@@ -30,7 +30,7 @@
 
 ---
 
-## 🔍 Methodology
+## Methodology
 
 ### 1. Data Processing
 Started with **3,143 daily-level rows** (7 days per episode-week) and aggregated to **420 episode-weeks**. Validated that aggregation preserved spend totals.
@@ -62,7 +62,7 @@ Tested **three Ridge regression models**:
 
 ---
 
-## 📈 Key Findings
+## Key Findings
 
 ### Channel Effectiveness (with 90% Confidence Intervals)
 
@@ -97,7 +97,7 @@ All three channels drive viewership, but with different strengths:
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 - **Python 3.8+** for all analysis
 - **pandas** for data manipulation
@@ -108,7 +108,7 @@ All three channels drive viewership, but with different strengths:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 marketing-mix-model/
@@ -119,7 +119,7 @@ marketing-mix-model/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Prerequisites
 ```bash
@@ -152,7 +152,7 @@ The notebook is organized into clear sections:
 
 ---
 
-## 🧪 What I Learned
+## What I Learned
 
 ### Technical Skills
 - **Advanced feature engineering** for time-series marketing data (adstock, saturation curves)
@@ -173,7 +173,7 @@ The notebook is organized into clear sections:
 
 ---
 
-## 🎓 Key Challenges & Solutions
+## Key Challenges & Solutions
 
 ### Challenge 1: Multicollinearity
 **Problem:** Media channels are correlated (spend often moves together)
@@ -198,7 +198,7 @@ The notebook is organized into clear sections:
 
 ---
 
-## 📚 What's Next?
+## What's Next?
 
 **Potential Enhancements:**
 - [ ] Add genre-specific models (drama vs comedy vs reality)
